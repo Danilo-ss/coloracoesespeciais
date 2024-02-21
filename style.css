@@ -1,0 +1,35 @@
+body {
+      font-family: Arial, sans-serif;
+      color:white;
+      background-image: url('IMG/colora - Copia.jpg'); 
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#meuElemento {
+  background-image: url('IMG/colora - Copia.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;}
+
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  #result {
+    margin-top: 20px;
+  }
